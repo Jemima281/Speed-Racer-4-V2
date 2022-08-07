@@ -1,0 +1,16 @@
+Goals:
+1. Set a reset button
+2. Move cars left and right using arrow keys
+3. Create a leaderboard
+
+
+//Last class
+
+for (var i in object){
+
+}
+
+Object.values(allPlayers)//this method returns an arrauy of a given object's own enumerable property values, same like for loop
+
+
+
